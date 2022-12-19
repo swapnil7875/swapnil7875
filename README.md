@@ -1,0 +1,5 @@
+- 👋 Hi, I’m SWAPNIL HARIDAS POHANE (@swapnil7875)
+- 👀 I’m interested in JavaScript/DotNet/Golang/Java/Python
+- 🌱 I’m currently learning JQuery/Ajax/JavaScript
+- 💞️ I’m looking to collaborate on DotNet//Golang/Java/Python
+- 📫 To reach me mail at swapnilhpohane@gmail.com
